@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://souhaylaelmeftahi.netlify.app/](https://souhaylaelmeftahi.netlify.app/)
 
-- 💬 Ask me about **data engineering tasks , java , python**
+- 💬 Ask me about **data engineering tasks ,data scientist,dashboarding,machine learning, java , python**
 
-- 📫 How to reach me **souhaylaelmeftahi@etu.uae.ac.ma**
+- 📫 How to reach me **souhaylaelmeftahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
