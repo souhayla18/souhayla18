@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **cloud projects**
 
-- 👨‍💻 All of my projects are available at [https://souhaylaelmeftahi.netlify.app/](https://souhaylaelmeftahi.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **data engineering tasks ,data scientist,dashboarding,machine learning, java , python**
 
