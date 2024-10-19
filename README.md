@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm souhayla</h1>
 <h3 align="center">A data engineer (almost) from morroco</h3>
 
-- 🔭 I’m currently working on **cloud projects**
+- 🔭 I’m currently working on **cloud projects** and **integrating AI into data engineering**
 
 - 👨‍💻 All of my projects are available  [here](https://souhaylaelmeftahi.netlify.app/)
 
